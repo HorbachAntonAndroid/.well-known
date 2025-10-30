@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "ua.monvel",
+      "package_name": "ua.monvel.bankalliance",
       "sha256_cert_fingerprints": [
         "14:C7:2D:B1:45:32:86:EC:CC:5F:38:7C:70:1A:CC:E9:BF:60:0F:D2:48:49:F8:80:70:AC:E8:F2:B5:46:C0:4E",
         "FE:19:1D:DD:D3:82:27:38:59:2D:09:61:C9:63:AD:18:F2:4D:01:64:BB:76:5F:5B:49:61:79:F9:C5:E4:D9:1B",
